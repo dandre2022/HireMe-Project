@@ -1,0 +1,25 @@
+img{
+    height:250px;
+}
+body{
+    background:black;
+}
+h1{
+    color:red;
+}
+h2{
+    color:red;
+}
+h3{
+    color:red;
+}
+p{
+    color:yellow;
+}
+
+ul{
+    color:pink;
+}
+p{
+    font-family:'Allerta Stencil',sans-serif;
+}
